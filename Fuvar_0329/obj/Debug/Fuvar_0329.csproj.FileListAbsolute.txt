@@ -1,0 +1,7 @@
+C:\Users\Adi\source\repos\Fuvar_0329\Fuvar_0329\bin\Debug\Fuvar_0329.exe.config
+C:\Users\Adi\source\repos\Fuvar_0329\Fuvar_0329\bin\Debug\Fuvar_0329.exe
+C:\Users\Adi\source\repos\Fuvar_0329\Fuvar_0329\bin\Debug\Fuvar_0329.pdb
+C:\Users\Adi\source\repos\Fuvar_0329\Fuvar_0329\obj\Debug\Fuvar_0329.csprojAssemblyReference.cache
+C:\Users\Adi\source\repos\Fuvar_0329\Fuvar_0329\obj\Debug\Fuvar_0329.csproj.CoreCompileInputs.cache
+C:\Users\Adi\source\repos\Fuvar_0329\Fuvar_0329\obj\Debug\Fuvar_0329.exe
+C:\Users\Adi\source\repos\Fuvar_0329\Fuvar_0329\obj\Debug\Fuvar_0329.pdb
